@@ -1,5 +1,5 @@
 {
-  "name": "UiPath_Queues",
+  "name": "UiPath Queues",
   "description": "UiPath Orchestrator Queues Example",
   "main": "Main.xaml",
   "dependencies": {
